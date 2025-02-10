@@ -1,0 +1,24 @@
+# PyCharm
+.idea/
+
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos sensibles
+.env
+*.sqlite3
+*.db
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
